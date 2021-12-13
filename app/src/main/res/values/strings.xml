@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="about">
+        Todo App
+    "&#xA;"Made by Dylan Hurtado"&#xA;"
+        Version v1.0
+    </string>
+
+    <string name="howUse">"&#xA;"Pulsa el boton + para crear una nueva nota"&#xA;&#xA;&#xA;"
+        Manten presionada la nota para borrarla"&#xA;&#xA;&#xA;"
+        Pulsa en la opcion de menu &#xA;a la izquierda en el toolbar &#xA;para acceder al menu de opciones"&#39;"</string>
+    <string name="about_us">About us</string>
+    <string name="como_usar">Como usar</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="hecho">Marca como tarea realizada</string>
+    <string name="ok">Confirmar</string>
+    <string name="action_settings" />
+    <string name="theme_switch">Cambiar el tema</string>
+    <string name="opciones">Opciones</string>
+    <string name="notas">Notas</string>
+    <string name="addNote">Añadir/Editar Nota</string>
+</resources>
